@@ -4,8 +4,7 @@
 
 This is a simple BMI (Body Mass Index) Calculator app built using React. It allows users to input their weight and height, calculates the BMI, and provides a BMI category.
 
-- Live Demo: [BMI Calculator Live Demo](https://purushottam-sonar-bmicalculator.netlify.app/)
-# - GitHub Repository: [BMI Calculator GitHub](https://github.com/sonarpurushottam/BMI-Calculator.git)
+- Live Demo: [BMI Calculator Live Demo](https://main--bmicalculator-shreyapawar.netlify.app/)
 
 ## Features
 
@@ -26,7 +25,7 @@ This is a simple BMI (Body Mass Index) Calculator app built using React. It allo
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/sonarpurushottam/BMI-Calculator.git
+   git clone 
    ```
 
 2. **Install Dependencies:**
@@ -47,4 +46,4 @@ This is a simple BMI (Body Mass Index) Calculator app built using React. It allo
 
 ## Credits
 
-- Developed by [Purushottam Sonar]
+- Developed by [Shreya Pawar]
